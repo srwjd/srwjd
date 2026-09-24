@@ -2,7 +2,7 @@
 
 ### Computer Science Student | Frontend & Full-stack Web Development
 
-I'm a third-year Computer Science and Software Development Innovation student at Sripatum University, interested in building web applications with a focus on **Frontend and Full-stack Development**.
+I'm a Fourth-year Computer Science and Software Development Innovation student at Sripatum University, interested in building web applications with a focus on **Frontend and Full-stack Development**.
 
 I enjoy turning ideas into practical applications and learning how different parts of a system work together — from user interfaces and APIs to databases and deployment.
 
